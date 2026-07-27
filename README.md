@@ -1,5 +1,6 @@
 ### What The Repo Has ?
-This repository contains an interactive Python CLI application demonstrating dynamic prompt generation using LangChain's PromptTemplate. It allows users to create structured LLM instructions, such as writing educational chapters, based on customized inputs. Read the full documentation and usage examples in the project's README.md file. [1, 2] 
+
+This repository contains an interactive Python CLI application demonstrating dynamic prompt generation using LangChain's PromptTemplate. It allows users to create structured LLM instructions, such as writing educational chapters, based on customized inputs. 
 
 ### Example
 
