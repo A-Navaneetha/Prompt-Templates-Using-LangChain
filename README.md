@@ -4,8 +4,6 @@ A clean and simple Python repository demonstrating how to create, format, and ma
 
 This project shows how to transition from basic static strings to interactive, user-driven prompt generation.
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -29,8 +27,6 @@ final_prompt = template.format(country="India")
 print(final_prompt)
 # Output: What is the capital city of India?
 ```
-
----
 
 ## 💻 Interactive Prompt Generator
 
