@@ -11,4 +11,4 @@ template = PromptTemplate.from_template("What is the capital city of {country}?"
 final_prompt = template.format(country="India")
 print(final_prompt)
 
-# Output: What is the capital city of India?
+Output: What is the capital city of India?
